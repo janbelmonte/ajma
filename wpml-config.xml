@@ -1,0 +1,75 @@
+<wpml-config>
+   <admin-texts>
+   
+		<key name="soapbox">
+			
+			<!-- General -->
+			<key name="logo" />
+			<key name="enable_tagline" />
+			<key name="custom_favicon" />
+			<key name="apple_bookmark_57" />
+			<key name="apple_bookmark_114" />
+			<key name="apple_bookmark_72" />
+			<key name="apple_bookmark_144" />
+			<key name="custom_css" />
+			<key name="custom_css_desktop" />
+			<key name="custom_css_mobile" />
+			
+			<!-- Colour -->
+			<key name="color_preloader" />
+			<key name="color_accent" />
+			<key name="color_accent_text" />
+			<key name="color_header" />
+			<key name="color_header_text" />
+			<key name="color_feature_content" />
+			<key name="color_link" />
+			<key name="color_link_hover" />
+			<key name="color_button" />
+			<key name="color_button_text" />
+			
+			<!-- Posts -->
+			<key name="post_author_meta" />
+			<key name="post_date_meta" />
+			<key name="post_category_meta" />
+			<key name="post_comments_meta" />
+			<key name="post_share_buttons" />
+			<key name="post_tags_meta" />
+			
+			<!-- Post Archives -->
+			<key name="archive_ajax_pagination" />
+			<key name="archive_author_meta" />
+			<key name="archive_date_meta" />
+			<key name="archive_category_meta" />
+			<key name="archive_comments_meta" />
+			
+			<!-- Portfolio Archives -->
+			<key name="portfolio_archive_thumbnail_style" />
+			<key name="portfolio_archive_category_label" />
+			
+			<!-- 404 -->
+			<key name="404_background" />
+			<key name="404_title" />
+			<key name="404_subtitle" />
+			
+			<!-- Search -->
+			<key name="search_background" />
+			
+			<!-- Social Networking -->
+			<key name="facebook_url" />
+			<key name="twitter_url" />
+			<key name="google_plus_url" />
+			<key name="youtube_url" />
+			<key name="vimeo_url" />
+			<key name="flickr_url" />
+			<key name="dribbble_url" />
+			<key name="instagram_url" />
+			<key name="pinterest_url" />
+			<key name="pinterest_url" />
+			
+			<!-- Footer -->
+			<key name="copyright_text" />
+			
+		</key>
+		
+   </admin-texts>
+</wpml-config>
